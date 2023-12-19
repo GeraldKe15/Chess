@@ -1,0 +1,162 @@
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:0:Space (A, 1) entered with lowercase a.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:0:Space (A, 1) entered with lowercase a is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:0:Space (A, 1) entered with lowercase a.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:2:Space (H, 8) entered with lowercase h.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:2:Space (H, 8) entered with lowercase h is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:2:Space (H, 8) entered with lowercase h.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:4:Invalid string with a length greater than 2.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:4:Invalid string with a length greater than 2 is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:4:Invalid string with a length greater than 2.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:6:Invalid empty string.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:6:Invalid empty string is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:6:Invalid empty string.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:8:Valid space (H, 8).
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:8:Valid space (H, 8) is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:8:Valid space (H, 8).
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:10:Invalid space with letter out of bounds of A-H.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:10:Invalid space with letter out of bounds of A-H is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:10:Invalid space with letter out of bounds of A-H.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:12:Invalid space with number greater than 8.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:12:Invalid space with number greater than 8 is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:12:Invalid space with number greater than 8.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:14:Invalid space with number less than 1..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:14:Invalid space with number less than 1. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:14:Invalid space with number less than 1..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:16:Invalid space with letter greater than H.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:16:Invalid space with letter greater than H is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:16:Invalid space with letter greater than H.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:18:Valid corner case space A 1.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:18:Valid corner case space A 1 is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:18:Valid corner case space A 1.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:20:Valid space in middle of board.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:20:Valid space in middle of board is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:20:Valid space in middle of board.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:22:A king moving one open space to the right is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:22:A king moving one open space to the right is valid. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:22:A king moving one open space to the right is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:24:A king moving one open space to the left is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:24:A king moving one open space to the left is valid. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:24:A king moving one open space to the left is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:26:A king moving one open space diagonally back and to the left is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:26:A king moving one open space diagonally back and to the left is valid. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:26:A king moving one open space diagonally back and to the left is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:28:A king moving one open space diagonally back and to the right is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:28:A king moving one open space diagonally back and to the right is valid. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:28:A king moving one open space diagonally back and to the right is valid..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:30:Valid: Moving knight up 1 and to the left 2.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:30:Valid: Moving knight up 1 and to the left 2 is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:30:Valid: Moving knight up 1 and to the left 2.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:32:Valid: Moving knight down 1 and to the left 2.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:32:Valid: Moving knight down 1 and to the left 2 is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:32:Valid: Moving knight down 1 and to the left 2.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:34:Valid: Moving knight down 2 and to the right 1 .
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:34:Valid: Moving knight down 2 and to the right 1  is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:34:Valid: Moving knight down 2 and to the right 1 .
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:36:Valid: Moving knight down 1 and to the right 2 .
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:36:Valid: Moving knight down 1 and to the right 2  is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:36:Valid: Moving knight down 1 and to the right 2 .
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:38:Knight cannot move one space.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:38:Knight cannot move one space is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:38:Knight cannot move one space.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:40:Valid: Moving Bishop diagonally down and to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:40:Valid: Moving Bishop diagonally down and to the left. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:40:Valid: Moving Bishop diagonally down and to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:42:Valid: Moving Bishop diagonally up and to the right..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:42:Valid: Moving Bishop diagonally up and to the right. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:42:Valid: Moving Bishop diagonally up and to the right..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:44:Invalid: Bishop cannot move horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:44:Invalid: Bishop cannot move horizontally. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:44:Invalid: Bishop cannot move horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:45:A Black Pawn at starting position can move two spaces down..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:45:A Black Pawn at starting position can move two spaces down. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:45:A Black Pawn at starting position can move two spaces down..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:47:A Black Pawn at starting position cannot move three spaces down..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:47:A Black Pawn at starting position cannot move three spaces down. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:47:A Black Pawn at starting position cannot move three spaces down..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:49:A Black Pawn cannot move horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:49:A Black Pawn cannot move horizontally. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:49:A Black Pawn cannot move horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:51:A White Pawn at starting position can move two spaces up..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:51:A White Pawn at starting position can move two spaces up. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:51:A White Pawn at starting position can move two spaces up..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:53:A White Pawn at starting position cannot move three spaces up..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:53:A White Pawn at starting position cannot move three spaces up. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:53:A White Pawn at starting position cannot move three spaces up..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:55:A White Pawn cannot move horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:55:A White Pawn cannot move horizontally. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:55:A White Pawn cannot move horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:57:A white pawn can capture black pawn diagonally right.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:57:A white pawn can capture black pawn diagonally right is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:57:A white pawn can capture black pawn diagonally right.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:59:A black pawn can capture white pawn diagonally left.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:59:A black pawn can capture white pawn diagonally left is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:59:A black pawn can capture white pawn diagonally left.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:61:Valid: Moving a rook to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:61:Valid: Moving a rook to the left. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:61:Valid: Moving a rook to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:63:Valid: Moving Rook forward..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:63:Valid: Moving Rook forward. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:63:Valid: Moving Rook forward..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:65:Invalid: Rook cannot move diagonally up and to the right..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:65:Invalid: Rook cannot move diagonally up and to the right. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:65:Invalid: Rook cannot move diagonally up and to the right..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:67:Invalid: Rook cannot move diagonally down and to the right..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:67:Invalid: Rook cannot move diagonally down and to the right. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:67:Invalid: Rook cannot move diagonally down and to the right..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:69:Valid: Moving Queen to the left horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:69:Valid: Moving Queen to the left horizontally. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:69:Valid: Moving Queen to the left horizontally..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:71:Valid: Moving Queen forward..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:71:Valid: Moving Queen forward. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:71:Valid: Moving Queen forward..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:73:Valid: Moving Queen diagonally up and to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:73:Valid: Moving Queen diagonally up and to the left. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:73:Valid: Moving Queen diagonally up and to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:75:Valid: Moving Queen diagonally down and to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:75:Valid: Moving Queen diagonally down and to the left. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:75:Valid: Moving Queen diagonally down and to the left..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:77:A White Rook at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:77:A White Rook at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:77:A White Rook at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:79:A White Bishop at starting state cannot
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   if its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:79:A White Bishop at starting state cannot
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   if its path is blocked. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:79:A White Bishop at starting state cannot
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   if its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:81:A White Queen at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:81:A White Queen at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:81:A White Queen at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:83:A White Queen at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:83:A White Queen at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:83:A White Queen at starting state cannot move
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:       if
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I:   its path is blocked..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:85:Spaces (A, 2) and (A, 3) do not occupy pieces of the same color on the start board..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:85:Spaces (A, 2) and (A, 3) do not occupy pieces of the same color on the start board. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:85:Spaces (A, 2) and (A, 3) do not occupy pieces of the same color on the start board..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:87:Space (A, 2) is now open with no piece after the White Pawn moves off it..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:87:Space (A, 2) is now open with no piece after the White Pawn moves off it. is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:87:Space (A, 2) is now open with no piece after the White Pawn moves off it..
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Start test test suite for A2:89:Find starting black king.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: Test test suite for A2:89:Find starting black king is successful.
+2021-12-13T23:39:06+00:00 dhcp-vl2042-12790.redrover.cornell.edu#01 I: End test test suite for A2:89:Find starting black king.
